@@ -21,6 +21,14 @@ This shiny app -- simple slider gives a demontration of few possible slider opti
 Here's link for the simple slider app:
 https://lulu.shinyapps.io/lulu/
 
+---
+
+## How to use the app
+
+the ourput in the right will show the coresponding change as you slide.
+
+
+
 
 ---
 
@@ -29,7 +37,7 @@ https://lulu.shinyapps.io/lulu/
 Here's a code for the clider with animation with custom intercal to control speed and adding looping function
 
 
-```{r, eval=FALSE}
+```{r,eval=FALSE}
 sliderInput("animation", "Looping Animation:", 1, 2000, 1, step = 10, 
                 animate=animationOptions(interval=300, loop=TRUE))
   ),

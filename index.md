@@ -21,6 +21,14 @@ This shiny app -- simple slider gives a demontration of few possible slider opti
 Here's link for the simple slider app:
 https://lulu.shinyapps.io/lulu/
 
+---
+
+## How to use the app
+
+the ourput in the right will show the coresponding change as you slide.
+
+
+
 
 ---
 
